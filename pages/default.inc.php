@@ -84,7 +84,7 @@
 		<div class="container block">
 			<h3 class="cont_head">Welcome to Inky!</h3>
 			<div class="cont_body">
-				<p>Inky is a free image hosting and pastebin service, provided for your convenience.
+				<p>Inky is a <a href="https://fsf.org">free/libre</a> image hosting and pastebin service, provided for your convenience.
 				To get started, just <a href="#" onclick="newGallery()" >create a gallery</a> and start uploading!
 				To best experience Inky, please make sure you have cookies and Javascript enabled.</p>
 			</div>

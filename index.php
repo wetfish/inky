@@ -43,7 +43,8 @@ ob_start();
     </div>
     <div class="clear"></div>
     <div class="footer">
-		&copy; <?php echo date('Y');?> Inky. All rights reserved.<br/>
+		&copy; <?php echo date('Y');?> You. <img src=""><br/>
+		<a href="https://github.com/wetfish/inky">GitHub</a> |
 		<a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a><br/>
 		<a href="/?p=legal">Privacy Policy / Legal</a> <br/>
 		<a href="/?p=contact">Contact</a>
