@@ -43,8 +43,8 @@ ob_start();
     </div>
     <div class="clear"></div>
     <div class="footer">
-		&copy; <?php echo date('Y');?> You. <img src="http://static.inky.ws/img/cc0.png"><br/>
-		<a href="https://github.com/wetfish/inky">GitHub</a> |
+		&copy; <?php echo date('Y');?> You. <a href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="http://static.inky.ws/img/cc0.png"></a><br/>
+		<a href="https://github.com/wetfish/inky">GitHub</a> | 
 		<a href="http://validator.w3.org/check?uri=referer">Valid XHTML</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">Valid CSS</a><br/>
 		<a href="/?p=legal">Privacy Policy / Legal</a> <br/>
 		<a href="/?p=contact">Contact</a>
